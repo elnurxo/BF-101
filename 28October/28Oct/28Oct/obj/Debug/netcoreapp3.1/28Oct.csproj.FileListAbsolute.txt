@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.exe
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.deps.json
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.runtimeconfig.json
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.dll
+C:\Users\LENOVO\Desktop\28Oct\28Oct\bin\Debug\netcoreapp3.1\28Oct.pdb
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.dll
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.pdb
+C:\Users\LENOVO\Desktop\28Oct\28Oct\obj\Debug\netcoreapp3.1\28Oct.genruntimeconfig.cache
