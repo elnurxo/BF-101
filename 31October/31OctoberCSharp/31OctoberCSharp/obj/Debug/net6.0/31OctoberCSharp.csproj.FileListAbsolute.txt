@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\bin\Debug\net6.0\31OctoberCSharp.exe
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\bin\Debug\net6.0\31OctoberCSharp.deps.json
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\bin\Debug\net6.0\31OctoberCSharp.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\bin\Debug\net6.0\31OctoberCSharp.dll
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\bin\Debug\net6.0\31OctoberCSharp.pdb
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.dll
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\refint\31OctoberCSharp.dll
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.pdb
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\31OctoberCSharp.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\BP-103\31October\31OctoberCSharp\31OctoberCSharp\obj\Debug\net6.0\ref\31OctoberCSharp.dll
