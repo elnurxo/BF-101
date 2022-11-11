@@ -8,5 +8,3 @@ axios.get('https://northwind.vercel.app/api/suppliers').then(resp => {
         ul.append(li);
     }
 });
-
-
