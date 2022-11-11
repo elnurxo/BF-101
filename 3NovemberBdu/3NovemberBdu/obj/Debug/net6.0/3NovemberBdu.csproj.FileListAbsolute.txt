@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\bin\Debug\net6.0\3NovemberBdu.exe
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\bin\Debug\net6.0\3NovemberBdu.deps.json
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\bin\Debug\net6.0\3NovemberBdu.runtimeconfig.json
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\bin\Debug\net6.0\3NovemberBdu.dll
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\bin\Debug\net6.0\3NovemberBdu.pdb
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.dll
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\refint\3NovemberBdu.dll
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.pdb
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\3NovemberBdu.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\3NovemberBdu\3NovemberBdu\obj\Debug\net6.0\ref\3NovemberBdu.dll
