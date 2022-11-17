@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#scroll-down{
+    position: relative;
+    height: 100vh;
+    background: url("../images/img_parallax.jpg") center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.65;
+}
+#scroll-down span{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    background-color: #111;
+    font-size: 25px;
+    color: #f7f7f7;
+    letter-spacing: 10px;
+    padding: 18px;
+}
+#parallax-demo{
+    background-color: #fff;
+    padding: 50px 80px;
+}
+#parallax-demo h1{
+    text-align: center;
+    letter-spacing: 8px;
+    font-weight: 300;
+    margin: 20px 0;
+}
+#parallax-demo p{
+    color: #777;
+}
+#less-height{
+    position: relative;
+    background: url("../images/img_parallax2.jpg") center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.65;
+    height: 400px;
+}
+#less-height span{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #f7f7f7;
+    letter-spacing: 10px;
+    padding: 18px;
+}
+#scroll-up .scroll-up_img-wrapper{
+    position: relative;
+    background: url("../images/img_parallax3.jpg") center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.65;
+    height: 400px;
+}
+#scroll-up span{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #f7f7f7;
+    letter-spacing: 10px;
+    padding: 18px;
+}
+#scroll-up div[class*="scroll-up"]{
+    background-color: #282E34;
+    color: white;
+    padding: 50px 80px;
+}
+
+#cool{
+    position: relative;
+    height: 100vh;
+    background: url("../images/img_parallax.jpg") center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.65;
+}
+#cool span{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    background-color: #111;
+    font-size: 25px;
+    color: #f7f7f7;
+    letter-spacing: 10px;
+    padding: 18px;
+}
