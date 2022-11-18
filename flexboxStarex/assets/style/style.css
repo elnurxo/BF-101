@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+header{
+    background: #005aff;
+}
+body{
+    height: 300vh;
+}
+.header-top{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.phone-number i,span{
+    color: white;
+}
+.phone-number>*{
+    margin-right: 10px;
+}
+.header-top_rightside ul{
+    display: flex;
+}
+.header-top_rightside ul li a{
+    color: white;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: .2s;
+}
+.header-top_rightside ul li a:hover{
+    color: red;
+}
+.header-top_rightside ul li:last-child{
+    padding-left: 10px;
+}
+.header-top_rightside ul li:first-child{
+    border-right: 1px solid lightgray;
+    padding-right: 10px;
+}
