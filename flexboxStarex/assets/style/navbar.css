@@ -2,7 +2,7 @@ nav {
   padding: 24px 0;
   background-color: white;
   position: sticky;
-  top: 40px;
+  top: 0px;
   z-index: 999;
 }
 .navbar {
