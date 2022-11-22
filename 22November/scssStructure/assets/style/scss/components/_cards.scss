@@ -1,0 +1,18 @@
+.card{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    &-items{
+        background-color: skyblue;
+        &__title{
+            font-weight: 900;
+            font-size: 16px;
+            &:hover{
+                font-size: 18px;
+            }
+        }
+        &__content{
+            color: lightgray;
+        }
+    }
+}
