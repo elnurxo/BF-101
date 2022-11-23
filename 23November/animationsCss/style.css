@@ -1,0 +1,64 @@
+body {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 600px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+.box {
+  text-align: center;
+  position: absolute;
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+  animation-name: movement;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction:reverse;
+  animation-timing-function: cubic-bezier(.29,1.31,.83,-0.3);
+
+}
+.box:hover {
+  animation-play-state: paused;
+  transform: scale(0.9);
+}
+
+
+/* h1{
+    animation-name: animate__fadeInRightBig;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+} */
+
+@keyframes movement {
+  0% {
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    left: 500px;
+    top: 0px;
+    background-color: indianred;
+  }
+  50% {
+    left: 500px;
+    top: 400px;
+    background-color: deeppink;
+  }
+  75% {
+    left: 0px;
+    top: 400px;
+    background-color: yellow;
+  }
+  100% {
+    left: 0px;
+    top: 0px;
+    background-color: red;
+  }
+}

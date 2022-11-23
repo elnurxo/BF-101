@@ -1,0 +1,54 @@
+body{
+    background-color: skyblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border-radius: 10px;
+    width: 400px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card:hover .img-wrapper img{
+    transform: scale(1.2) rotate(360deg);
+    filter: brightness(100%) grayscale(0%) blur(0px);
+}
+.img-wrapper{
+    object-fit: cover;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+.img-wrapper img{
+    width: 100%;
+    height: 100%;
+    filter: brightness(60%) grayscale(80%) blur(1px);
+    transition: .3s;
+}
+article{
+    padding: 0 20px;
+    cursor: pointer;
+}
+article span,h2{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article span:hover{
+    letter-spacing: 2px;
+    color: black;
+}
+article p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article span{
+    transition: .2s;
+    color: lightgrey;
+}
+article h2{
+    color: burlywood;
+}

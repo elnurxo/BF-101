@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+}
+.container{
+    display: grid;
+    border-radius: 20px;
+    background-color: lightgreen;
+    width: 500px;
+    margin: 0 auto;
+    height: 60%;
+
+    grid-template-columns: 1fr 1fr 2fr 2fr;
+    grid-template-rows: 1fr 1fr 3fr 2fr;
+    gap: 10px;
+    overflow: hidden;
+}
+.container div{
+    background-color: indianred;
+}
