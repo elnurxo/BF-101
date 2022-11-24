@@ -1,0 +1,19 @@
+.link{
+    @include link-generate(white,14px);
+    position: absolute;
+    left: 50%;
+    top: -14%;
+    transform: translate(-50%,-50%) scale(1);
+    opacity: 0;
+    text-align: center;
+    white-space:nowrap;
+    transition: .4s ease-in-out;
+    font-family: $font-primary;
+    font-weight: 600;
+    letter-spacing: 1px;
+    &:hover{
+        top: 50%;
+        transform: translate(-50%,-50%) scale(0.9) !important;
+        background-color: $link-color-hover;
+    }
+}

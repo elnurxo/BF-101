@@ -1,0 +1,9 @@
+@import "./variables";
+@mixin link-generate($color,$font-size,$bgc:$link-color){
+    background-color: $bgc;
+    font-size: $font-size;
+    color: $color;
+    border-radius: 6px;
+    padding: 12px 45px;
+    
+}
