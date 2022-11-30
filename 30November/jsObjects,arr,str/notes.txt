@@ -1,0 +1,5 @@
+objects are reference type.
+objects contains keys and values.
+commonly we use const keyword for declaring objects.
+object comparison.
+object declaring.
