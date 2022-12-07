@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 90vh;
+    width: 100%;
+    background-image: url("../media/photo-1576919228236-a097c32a5cd4.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.wrapper{
+    width: 700px;
+    margin: 0 auto;
+
+}
+#subscribe{
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    transition: .3s ease-in-out;
+}
+.title{
+    text-align: center;
+    font-family: "Mountains of Christmas";
+    font-weight: 700;
+    color: red;
+}
+#participant-count{
+    transition: .6s linear;
+}
+#participant-name{
+    width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+}
+#error-name{
+    display: block;
+    text-align: center;
+}
+.participants-wrapper{
+    display: none;
+    max-height: 400px;
+    width: 40%;
+    margin: 0 auto;
+    overflow-y: auto;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.shuffle{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-weight: bold;
+    font-family: "Mountains of Christmas";
+}
+#countdown{
+    color: black !important;
+}
+label{
+    font-family: "Mountains of Christmas";
+}
+.hobby-key{
+    display: none;
+}
